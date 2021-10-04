@@ -1,0 +1,13 @@
+.offer-area {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    padding: 30px;
+}
+.info {
+    height: 240px;
+    width: 90%;
+    padding: 5px;
+}
+.info h4 {
+    font-weight: 700;
+}
