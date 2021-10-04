@@ -3,6 +3,7 @@
     margin-top: 20px;
     display: flex !important;
     margin-bottom: 3px !important;
+    height: 260px;
 }
 .card-img {
     width: 250px;
