@@ -3,7 +3,6 @@ import { Card, Col } from 'react-bootstrap';
 import './Staff.css';
 
 const Staff = (props) => {
-    console.log(props)
     const {name, role, remark, img} = props.teacher;
     return (
         <>

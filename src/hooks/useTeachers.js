@@ -7,6 +7,6 @@ const useTeachers = () =>{
         .then(res => res.json())
         .then(data => setTeachers(data))
     },[]);
-    return [teachers, setTeachers];
+    return [teachers];
 }
 export default useTeachers;

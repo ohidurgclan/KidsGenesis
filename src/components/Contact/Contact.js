@@ -7,7 +7,8 @@ const Contact = () => {
     return (
         <div className="contact-area">
             <Container>
-                <Row>
+          <Row>
+            <h1 className="fw-bold text-center" >Contact With Us</h1>
 <Form>
                         <Row className="mb-3">
                                     <Form.Label>Your Name</Form.Label>
