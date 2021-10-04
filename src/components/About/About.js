@@ -12,7 +12,7 @@ const About = () => {
                             <h2 className="fw-bold">What We Offer</h2>
                             <br />
                             <h3 className="fw-bold">KidsGenesis</h3>
-                            <p>‘Organization Name’ has different classrooms that are made out of blended age gatherings of kids who are 2 through 3.8-year-olds and another class of Pre-Kindergarten multi-year-olds, who figure out how to mind, enable, work, to play and collaborate with one another.
+                            <p>‘KidsGenesis’ has different classrooms that are made out of blended age gatherings of kids who are 2 through 3.8-year-olds and another class of Pre-Kindergarten multi-year-olds, who figure out how to mind, enable, work, to play and collaborate with one another.
                                 In the blended age amass classes, kids gain from each other as they communicate in a school setting. They figure out how to mind, enable, work, to play and coordinate with one another. Learning in a blended age aggregate animates a more prominent premium and supports participation.
                                 The more youthful youngsters learn through perception of the more established kids. The two and multi year old’s social and scholarly improvement is upgraded by this strategy for age gathering.
                                 Blended age bunches upgrade both more youthful and more seasoned kids’ inspiration and fearlessness. This inheritance of duty and helping other people is the point of convergence of the blended age-bunch setting.

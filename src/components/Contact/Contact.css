@@ -10,3 +10,7 @@
     background-color: #189cf0;
     border-color: #189cf0;
 }
+.row {
+    margin-top: 30px !important;
+    margin-bottom: 40px !important;
+}

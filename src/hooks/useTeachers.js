@@ -1,12 +1,12 @@
 import { useEffect, useState } from "react"
 
-const useTeacher = () =>{
-    const [teacher , setTeacher] = useState([]);
+const useTeachers = () =>{
+    const [teachers , setTeachers] = useState([]);
     useEffect(()=>{
         fetch('https://ohidurgclan.github.io/course9api/teacher.json')
         .then(res => res.json())
-        .then(data => setTeacher(data))
+        .then(data => setTeachers(data))
     },[]);
-    return [teacher, setTeacher];
+    return [teachers, setTeachers];
 }
-export default useTeacher;
+export default useTeachers;

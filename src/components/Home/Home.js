@@ -1,4 +1,5 @@
 import React from 'react';
+import Service from '../Service/Service';
 import Slider from '../Slider/Slider';
 import './Home.css';
 
