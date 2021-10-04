@@ -2,15 +2,16 @@
 
 ## This project was Make with React Js
 
-## 2. Available Bullet Point
+## 2. Available Three Bullet Points
 #### React default Scripts And Components Scripts
 #### By Using React Bootstrap Library
-#### In the project directory, you can Run With:
+#### Separate Components and React Routing
+#### In the project directory, you can Run With
 
 ### `npm start`
 
-## 3.Runs the app in the development mode.\
-#### Open Live Link [KidsGenesis](https://karaoke-concert.netlify.app/) to view it in the browser.
+## 3.Runs the app in the development mode.
+#### Open Live Link [KidsGenesis](https://kidsgenesis.netlify.app/) to view it in the browser.
 
 #### 4.In the project directory, You Can Build and live deploy:
 ### `npm run build`
