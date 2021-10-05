@@ -12,7 +12,7 @@ const Service = (props) => {
                     <img className="img img-fluid card-img" src={img} alt="" />
                     <div className="service-info">
                         <h4 className="fw-bold">{name}</h4>
-                        <h6 className="fw-bold">{time}</h6>
+                        <h6 className="fw-bold"> Class Time: <span>{time}</span></h6>
                         <p>{detail}</p>
                     </div>
                 </div>

@@ -3,6 +3,9 @@
     margin-bottom: 90px;
     padding: 30px;
 }
+.offer-area h2, h3 {
+    color: #189cf0;
+}
 .info {
     height: 240px;
     width: 90%;
@@ -10,4 +13,5 @@
 }
 .info h4 {
     font-weight: 700;
+    color: #189cf0;
 }

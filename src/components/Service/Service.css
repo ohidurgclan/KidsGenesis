@@ -5,6 +5,9 @@
     margin-bottom: 3px !important;
     height: 260px;
 }
+.service-card h4, span {
+    color: #189cf0;
+}
 .card-img {
     width: 250px;
     background-size: cover;

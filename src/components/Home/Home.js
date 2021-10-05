@@ -15,7 +15,7 @@ const Home = () => {
             <Slider></Slider>
             <Container>
             <Row>
-            <h2 className="fw-bold mb-5" >Creative Teacher</h2>
+            <h2 className="fw-bold mb-5" >Creative Teachers</h2>
             {
                 teachers.slice(2,6).map(teacherItem => <Homestaff
                     key={teacherItem.key}
