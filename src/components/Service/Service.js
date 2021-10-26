@@ -3,7 +3,6 @@ import { Col } from 'react-bootstrap';
 import './Service.css';
 
 const Service = (props) => {
-    console.log(props)
     const { name, time, detail, img } = props.service;
     return (
         <>
